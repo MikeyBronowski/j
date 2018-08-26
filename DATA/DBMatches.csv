@@ -5,8 +5,11 @@ RoundID,Date,Sequence,MatchID,Home,Away,HT,FT
 2018_ITA_Serie_A_1,8/19/2018,4,2018_ITA_Serie_A_1_Bol_Spa,Bologna,Spal,0_0,0_1
 2018_ITA_Serie_A_1,8/19/2018,5,2018_ITA_Serie_A_1_Emp_Cag,Empoli,Cagliari,1_0,2_0
 2018_ITA_Serie_A_1,8/19/2018,6,2018_ITA_Serie_A_1_Par_Udi,Parma,Udinese,1_0,2_2
-2018_ITA_Serie_A_1,8/19/2018,7,2018_ITA_Serie_A_1_Ata_Fro,Atalanta,Frosinone,1_0,1_0
-2018_ITA_Serie_A_1,8/20/2018,8,2018_ITA_Serie_A_1_Sam_Fio,Sampdoria,Fiorentina,1_0,4_0
+2018_ITA_Serie_A_1,8/19/2018,7,2018_ITA_Serie_A_1_Ata_Fro,Atalanta,Frosinone,1_0,4_0
+2018_ITA_Serie_A_1,8/20/2018,8,2018_ITA_Serie_A_1_Sas_Int,Sassuolo,Inter,1_0,1_0
 2018_ITA_Serie_A_2,8/25/2018,1,2018_ITA_Serie_A_2_Juv_Laz,Juventus,Lazio,1_0,2_0
 2018_ITA_Serie_A_2,8/25/2018,2,2018_ITA_Serie_A_2_Nap_Mil,Napoli,Milan,0_1,3_2
-2018_ITA_Serie_A_2,8/25/2018,3,2018_ITA_Serie_A_2_Spa_Par,Spal,Parma,0_0,1_0
+2018_ITA_Serie_A_2,8/26/2018,3,2018_ITA_Serie_A_2_Spa_Par,Spal,Parma,0_0,1_0
+2018_ITA_Serie_A_2,8/26/2018,4,2018_ITA_Serie_A_2_Int_Tor,Inter,Torino,2_0,2_2
+2018_ITA_Serie_A_2,8/26/2018,5,2018_ITA_Serie_A_2_Fro_Bol,Frosinone,Bologna,0_0,0_0
+2018_ITA_Serie_A_2,8/26/2018,6,2018_ITA_Serie_A_2_Cag_Sas,Cagliari,Sassuolo,1_0,2_2
