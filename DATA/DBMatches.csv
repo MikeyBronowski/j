@@ -19,8 +19,8 @@ RoundID,Date,Sequence,MatchID,Home,Away,HT,FT
 2018_ITA_Serie_A_2,8/26/2018,8,2018_ITA_Serie_A_2_Gen_Emp,Genoa,Empoli,2_0,2_1
 2018_ITA_Serie_A_2,8/26/2018,9,2018_ITA_Serie_A_2_Udi_Sam,Udinese,Sampdoria,1_0,1_0
 2018_ITA_Serie_A_2,8/27/2018,10,2018_ITA_Serie_A_2_Rom_Ata,Roma,Atalanta,1_3,3_3
-2018_ITA_Serie_A_3,8/31/2018,1,2018_ITA_Serie_A_3_Mil_rom,Milan,roma,_,_
-2018_ITA_Serie_A_3,9/1/2018,2,2018_ITA_Serie_A_3_Bol_Mil,Bologna,Milan,_,_
+2018_ITA_Serie_A_3,8/31/2018,1,2018_ITA_Serie_A_3_Mil_Rom,Milan,Roma,1_0,2_1
+2018_ITA_Serie_A_3,9/1/2018,2,2018_ITA_Serie_A_3_Bol_Int,Bologna,Inter,_,_
 2018_ITA_Serie_A_3,9/1/2018,3,2018_ITA_Serie_A_3_Par_Juv,Parma,Juventus,_,_
 2018_ITA_Serie_A_3,9/2/2018,4,2018_ITA_Serie_A_3_Fio_Udi,Fiorentina,Udinese,_,_
 2018_ITA_Serie_A_3,9/2/2018,5,2018_ITA_Serie_A_3_Ata_Cag,Atalanta,Cagliari,_,_
