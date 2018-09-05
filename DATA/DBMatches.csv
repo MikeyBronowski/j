@@ -22,10 +22,10 @@ RoundID,Date,Sequence,MatchID,Home,Away,HT,FT
 2018_ITA_Serie_A_3,8/31/2018,1,2018_ITA_Serie_A_3_Mil_Rom,Milan,Roma,1_0,2_1
 2018_ITA_Serie_A_3,9/1/2018,2,2018_ITA_Serie_A_3_Bol_Int,Bologna,Inter,0_0,0_3
 2018_ITA_Serie_A_3,9/1/2018,3,2018_ITA_Serie_A_3_Par_Juv,Parma,Juventus,1_1,1_2
-2018_ITA_Serie_A_3,9/2/2018,4,2018_ITA_Serie_A_3_Fio_Udi,Fiorentina,Udinese,_,_
-2018_ITA_Serie_A_3,9/2/2018,5,2018_ITA_Serie_A_3_Ata_Cag,Atalanta,Cagliari,_,_
-2018_ITA_Serie_A_3,9/2/2018,6,2018_ITA_Serie_A_3_Chi_Emp,Chievo,Empoli,_,_
-2018_ITA_Serie_A_3,9/2/2018,7,2018_ITA_Serie_A_3_Laz_Fro,Lazio,Frosinone,_,_
-2018_ITA_Serie_A_3,9/2/2018,8,2018_ITA_Serie_A_3_Sam_Nap,Sampdoria,Napoli,_,_
-2018_ITA_Serie_A_3,9/2/2018,9,2018_ITA_Serie_A_3_Sas_Gen,Sassuolo,Genoa,_,_
-2018_ITA_Serie_A_3,9/2/2018,10,2018_ITA_Serie_A_3_Tor_Spa,Torino,Spal,_,_
+2018_ITA_Serie_A_3,9/2/2018,4,2018_ITA_Serie_A_3_Fio_Udi,Fiorentina,Udinese,0_0,1_0
+2018_ITA_Serie_A_3,9/2/2018,5,2018_ITA_Serie_A_3_Ata_Cag,Atalanta,Cagliari,0_1,0_1
+2018_ITA_Serie_A_3,9/2/2018,6,2018_ITA_Serie_A_3_Chi_Emp,Chievo,Empoli,0_0,0_0
+2018_ITA_Serie_A_3,9/2/2018,7,2018_ITA_Serie_A_3_Laz_Fro,Lazio,Frosinone,0_0,1_0
+2018_ITA_Serie_A_3,9/2/2018,8,2018_ITA_Serie_A_3_Sam_Nap,Sampdoria,Napoli,2_0,3_0
+2018_ITA_Serie_A_3,9/2/2018,9,2018_ITA_Serie_A_3_Sas_Gen,Sassuolo,Genoa,4_1,5_3
+2018_ITA_Serie_A_3,9/2/2018,10,2018_ITA_Serie_A_3_Tor_Spa,Torino,Spal,0_0,1_0
